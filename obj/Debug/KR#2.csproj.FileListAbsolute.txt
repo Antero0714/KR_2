@@ -1,0 +1,7 @@
+C:\Users\andre\OneDrive\Рабочий стол\KR#2\KR#2\KR#2\bin\Debug\KR#2.exe.config
+C:\Users\andre\OneDrive\Рабочий стол\KR#2\KR#2\KR#2\bin\Debug\KR#2.exe
+C:\Users\andre\OneDrive\Рабочий стол\KR#2\KR#2\KR#2\bin\Debug\KR#2.pdb
+C:\Users\andre\OneDrive\Рабочий стол\KR#2\KR#2\KR#2\obj\Debug\KR#2.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Рабочий стол\KR#2\KR#2\KR#2\obj\Debug\KR#2.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\KR#2\KR#2\KR#2\obj\Debug\KR#2.exe
+C:\Users\andre\OneDrive\Рабочий стол\KR#2\KR#2\KR#2\obj\Debug\KR#2.pdb
